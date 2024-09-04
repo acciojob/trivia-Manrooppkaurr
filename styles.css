@@ -1,2 +1,17 @@
+label{
+	display:block;
+	margin:15px;
+}
+span{
+	height:25px;
+	width:700px;
+	background-color:red;
+	margin:15px;
+	padding:14px;
+	font-size:13px;
+	border-left: 8px solid green;
+	background-color:#f8fffe;
+	font-weight:bold;
+}
 
 /* Your CSS Code here. */
